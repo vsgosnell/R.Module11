@@ -32,3 +32,8 @@ mind(m)
 
 options(error = recover)
 mind(m)
+
+
+
+#from the art of R programming book -> chapter 13 pdf page 326
+
